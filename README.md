@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Logistic Regression
+# Heart Disease Prediction using Logistic Regression
 
 A machine learning project that predicts whether a patient has heart disease from 13 clinical measurements, built in Python with scikit-learn.
 
